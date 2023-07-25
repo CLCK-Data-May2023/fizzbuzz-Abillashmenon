@@ -7,5 +7,5 @@ for n in range(1,101):
     elif n % 3 ==0:
         print('Fizz')
     else:
-        print(n)
+        print('This number is not applicable with FIZZBUZZ - ', n)
 
